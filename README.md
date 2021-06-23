@@ -18,7 +18,6 @@
 * [第4周 ](https://github.com/110810550/HH/blob/main/w4.md)
 * [第5周 ](https://github.com/110810550/HH/blob/main/w5.md)
 * [第6周 ](https://github.com/110810550/HH/blob/main/w6.md)
-* [第7周 ]()
 * [第8周 ]()
 * [第9周 ]()
 * [第10周 ]()
